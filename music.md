@@ -8,6 +8,7 @@ comments: false
 
 #### Recently Listened
 ## [August, 2021](#august-2021)
+
 | Artist | Track |
 |--------|-------|
 Anxiety Disorder | Vicious Minds
