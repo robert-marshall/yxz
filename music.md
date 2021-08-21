@@ -7,6 +7,47 @@ comments: false
 ---
 
 #### Recently Listened
+## [August, 2021](#august-2021)
+| Artist | Track |
+|--------|-------|
+Anxiety Disorder | Vicious Minds
+Rise Against | Anyway You Want It [Journey]
+Emilie Autumn | Fight Like A Girl
+Gamma Ray | The Heart Of The Unicorn
+Zā Lä Thü | The Opening of the Portal
+CYGNOSIC | The Swarm
+Datsuns | Lady
+spankthenun | VIRUS [COVID Version]
+Accept | Time Machine
+CRACKDOWN | Russia do you hate me
+ZA LU THU | Into the Void, Beyond the Sun
+Aesthetic Perfection | Inhuman
+Rhapsody | The Last Winged Unicorn
+Omega Lithium | Infest
+X [Japan] | Joker [Live]
+My Ruin | Ready For Blood
+Dissonance | MOL Junior Kain Remix
+Psychostick | Do
+Alter der Ruine | Snake Oil Salesman
+Acretongue | Amber
+Equilibrium | Himmelsrand (Jeremy Soule cover)
+Suicide Puppets | Pet Human Head
+Kieran Somerville | Cyber-flunk 2020
+Unheilig | Sage Ja! (Live)
+Lacuna Coil | Our Truth (Live)
+Polarkreis 18 | Allain Alene (Allein Allein Reworked By Carsten Heller & Nephew) (Exklusiv)
+Sadako | Little Itches
+London After Midnight | kiss
+The Creatures | Another Planet
+Magenta | Eccentricity
+Marilyn Manson | This Is The New S**t
+Killing Joke | The Wait
+Poe | Trigger Happy Jack
+BUTCHER BABIES | They're Coming To Take Me Away, Ha-Haaa!
+Carnival in Coal | Mama
+Acid Bats | Posession
+The Gathering | Desbris
+
 ## [July, 2021](#july-2021)
 
 | Artist | Track |
