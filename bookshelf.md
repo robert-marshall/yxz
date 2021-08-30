@@ -25,6 +25,15 @@ comments: false
 
 |Title                                                                                                                                                                                                  |Author                     |
 |-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------|
+| George Orwell | Notes on Nationalism |
+| Common Sense | Thomas Paine |
+| Dictators: The Cult of Personality in the Twentieth Century | Frank Dikötter |
+| The Rule of Law | Tom Bingham |
+| Two Treatises of Government | John Locke |
+| Meditations | Marcus Aurelius |
+| Neither Right Nor Left: Fascist Ideology in France | Zeev Sternhell |
+| Where We Are: The State of Britain Now | Roger Scruton |
+| Mao's Great Famine | Frank Dikötter |
 |The Kybalion                                                                                                                                                                                           |Three Initiates            |
 |Mining of Massive Datasets                                                                                                                                                                             |Jure Leskovec              |
 |The Archetypes and the Collective Unconscious (Collected Works 9i)                                                                                                                                     |C.G. Jung                  |
@@ -613,7 +622,7 @@ comments: false
 |Leviathan                                                                                                                                                                                              |Thomas Hobbes             |
 |A Dream of Enlightenment, Chapter Two                                                                                                                                                                  |Adolph Gottlieb           |
 |Introduction to Leviathan                                                                                                                                                                              |Michael Oakeshott         |
-|Two Discourses on Government                                                                                                                                                                           |John Locke                |
+|Two Treatises of Government                                                                                                                                                                           |John Locke                |
 |Persian Letters                                                                                                                                                                                        |Montesquieu               |
 |The Spirit of Laws                                                                                                                                                                                     |Montesquieu               |
 |Vindication of Natural Society                                                                                                                                                                         |Edmund Burke              |

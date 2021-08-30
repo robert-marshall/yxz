@@ -11,6 +11,10 @@ comments: false
 
 | Artist | Track |
 |--------|-------|
+DEF NEON | Stand Aside
+Marilyn Manson | Another Brick In The Wall [Pink Floyd]
+CRACKDOWN | Smiles a lot
+spankthenun | Rotting Meat [Mind Control] version
 Anxiety Disorder | Vicious Minds
 Rise Against | Anyway You Want It [Journey]
 Emilie Autumn | Fight Like A Girl
