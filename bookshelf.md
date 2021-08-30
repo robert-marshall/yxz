@@ -25,7 +25,7 @@ comments: false
 
 |Title                                                                                                                                                                                                  |Author                     |
 |-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------|
-| George Orwell | Notes on Nationalism |
+| Notes on Nationalism | George Orwell |
 | Common Sense | Thomas Paine |
 | Dictators: The Cult of Personality in the Twentieth Century | Frank Dikötter |
 | The Rule of Law | Tom Bingham |
