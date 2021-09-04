@@ -11,6 +11,7 @@ comments: false
 
 | Artist | Track |
 |--------|-------|
+Stahlnebel vs Black Selket feat. Menschdefeckt | Gottes Zorn (Shneller Tod)
 Industriegebiet | Sex Mit Einer Leiche (Soman mix)
 Shiv R | Parasite (Virul3nt mix)
 Stahlnebel vs Black Selket | Devils Army (master version)
