@@ -11,6 +11,7 @@ comments: false
 
 | Artist | Track |
 |--------|-------|
+Hocico | Fed Up
 XPQ 21 | Poisonous Words
 
 ## [August, 2021](#august-2021)
