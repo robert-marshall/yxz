@@ -11,6 +11,7 @@ comments: false
 
 | Artist | Track |
 |--------|-------|
+Implant Feat. Angelspit | Violence
 In[Perfektion] | Imitation Of Life
 Implant | The Stimulator (People Theatre's Final Call mix)
 Combichrist | All Pain Is Gone (Sthilmann Club edit)
