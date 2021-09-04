@@ -11,6 +11,7 @@ comments: false
 
 | Artist | Track |
 |--------|-------|
+Implant | The Stimulator (People Theatre's Final Call mix)
 Combichrist | All Pain Is Gone (Sthilmann Club edit)
 Stahlnebel vs Black Selket feat. Menschdefeckt | Gottes Zorn (Shneller Tod)
 Industriegebiet | Sex Mit Einer Leiche (Soman mix)
