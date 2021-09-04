@@ -11,6 +11,7 @@ comments: false
 
 | Artist | Track |
 |--------|-------|
+Joachim Witt | Fluch Der Liebe
 Signal Aout 42 | Langemark
 Asthetic perfecion | Living the wasted life (deadbeat mix)
 Painbastard | Tear Apart
