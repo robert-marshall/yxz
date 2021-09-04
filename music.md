@@ -11,6 +11,7 @@ comments: false
 
 | Artist | Track |
 |--------|-------|
+Asthetic perfecion | Living the wasted life (deadbeat mix)
 Painbastard | Tear Apart
 Arian 1 | Machine Gun (Robo Destruction mix)
 Hocico | Fed Up
