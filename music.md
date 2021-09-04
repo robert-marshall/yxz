@@ -7,6 +7,12 @@ comments: false
 ---
 
 #### Recently Listened
+## [September, 2021](#september-2021)
+
+| Artist | Track |
+|--------|-------|
+XPQ 21 | Poisonous Words
+
 ## [August, 2021](#august-2021)
 
 | Artist | Track |
