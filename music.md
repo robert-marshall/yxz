@@ -11,6 +11,8 @@ comments: false
 
 | Artist | Track |
 |--------|-------|
+PreEmptive Strike 0.1 | Syndrome Mutation (Bak XIII Remix)
+Icon Of Coil | Shelter
 Joachim Witt | Fluch Der Liebe
 Signal Aout 42 | Langemark
 Asthetic perfecion | Living the wasted life (deadbeat mix)
