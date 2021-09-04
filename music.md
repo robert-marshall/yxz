@@ -11,6 +11,7 @@ comments: false
 
 | Artist | Track |
 |--------|-------|
+Shiv R | Parasite (Virul3nt mix)
 Stahlnebel vs Black Selket | Devils Army (master version)
 Alien Vampires | Far From Humans (Featuring Suicide Commando)
 FGFC820 | Not The World I Remember
