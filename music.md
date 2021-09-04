@@ -11,6 +11,7 @@ comments: false
 
 | Artist | Track |
 |--------|-------|
+Industriegebiet | Sex Mit Einer Leiche (Soman mix)
 Shiv R | Parasite (Virul3nt mix)
 Stahlnebel vs Black Selket | Devils Army (master version)
 Alien Vampires | Far From Humans (Featuring Suicide Commando)
