@@ -11,6 +11,7 @@ comments: false
 
 | Artist | Track |
 |--------|-------|
+De/Vision | Dress When I Bleed (radio edit)
 Front Line Assembly | Resist
 PreEmptive Strike 0.1 | Syndrome Mutation (Bak XIII Remix)
 Icon Of Coil | Shelter
