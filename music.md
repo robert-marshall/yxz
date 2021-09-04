@@ -11,6 +11,8 @@ comments: false
 
 | Artist | Track |
 |--------|-------|
+God Module | Darkness Is...
+FGFC820 | Killing Fields
 Alien Vampires | Blood Bath
 Sonic Introversion | Please Yourself (Extended)
 Implant Feat. Angelspit | Violence
