@@ -11,6 +11,7 @@ comments: false
 
 | Artist | Track |
 |--------|-------|
+Front Line Assembly | Resist
 PreEmptive Strike 0.1 | Syndrome Mutation (Bak XIII Remix)
 Icon Of Coil | Shelter
 Joachim Witt | Fluch Der Liebe
