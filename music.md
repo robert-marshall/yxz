@@ -11,6 +11,7 @@ comments: false
 
 | Artist | Track |
 |--------|-------|
+Alien Vampires | Far From Humans (Featuring Suicide Commando)
 FGFC820 | Not The World I Remember
 Schallfaktor | Mir
 Shaun F | Drty Fckn Dsko (Hard mix)
