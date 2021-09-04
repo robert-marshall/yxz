@@ -11,6 +11,7 @@ comments: false
 
 | Artist | Track |
 |--------|-------|
+Shaun F | Drty Fckn Dsko (Hard mix)
 De/Vision | Dress When I Bleed (radio edit)
 Front Line Assembly | Resist
 PreEmptive Strike 0.1 | Syndrome Mutation (Bak XIII Remix)
