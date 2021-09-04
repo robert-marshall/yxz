@@ -11,6 +11,7 @@ comments: false
 
 | Artist | Track |
 |--------|-------|
+Alien Vampires | Blood Bath
 Sonic Introversion | Please Yourself (Extended)
 Implant Feat. Angelspit | Violence
 In[Perfektion] | Imitation Of Life
