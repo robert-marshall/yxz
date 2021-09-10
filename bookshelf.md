@@ -25,15 +25,15 @@ comments: false
 
 |Title                                                                                                                                                                                                  |Author                     |
 |-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------|
-| Notes on Nationalism | George Orwell |
-| Common Sense | Thomas Paine |
-| Dictators: The Cult of Personality in the Twentieth Century | Frank Dikötter |
-| The Rule of Law | Tom Bingham |
-| Two Treatises of Government | John Locke |
-| Meditations | Marcus Aurelius |
-| Neither Right Nor Left: Fascist Ideology in France | Zeev Sternhell |
-| Where We Are: The State of Britain Now | Roger Scruton |
-| Mao's Great Famine | Frank Dikötter |
+| Notes on Nationalism                                                                                                                                                                                  |George Orwell              |
+| Common Sense                                                                                                                                                                                          |Thomas Paine               |
+| Dictators: The Cult of Personality in the Twentieth Century                                                                                                                                           |Frank Dikötter            |
+| The Rule of Law                                                                                                                                                                                       |Tom Bingham                |
+| Two Treatises of Government                                                                                                                                                                           |John Locke                 |
+| Meditations                                                                                                                                                                                           |Marcus Aurelius            |
+| Neither Right Nor Left: Fascist Ideology in France                                                                                                                                                    |Zeev Sternhell             |
+| Where We Are: The State of Britain Now                                                                                                                                                                |Roger Scruton              |
+| Mao's Great Famine                                                                                                                                                                                    |Frank Dikötter            |
 |The Kybalion                                                                                                                                                                                           |Three Initiates            |
 |Mining of Massive Datasets                                                                                                                                                                             |Jure Leskovec              |
 |The Archetypes and the Collective Unconscious (Collected Works 9i)                                                                                                                                     |C.G. Jung                  |

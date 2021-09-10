@@ -11,6 +11,7 @@ comments: false
 
 | Artist | Track |
 |--------|-------|
+Kloq | So Long Cylon
 Nachtmahr | Ich Glaube
 Sigue Sigue Sputnik | Love Missile F1 11 (Westbam Remix Short Version)
 Xp8 | Dreamt Of Blue (Dj Lee mix)
