@@ -11,6 +11,7 @@ comments: false
 
 | Artist | Track |
 |--------|-------|
+Into Magic - Zauberstab - versus Ferry Corsten | Punk (Original mix)
 Patenbrigade: Wolff | Turmdrehkran (PVD Club Mix)
 Kloq | So Long Cylon
 Nachtmahr | Ich Glaube
